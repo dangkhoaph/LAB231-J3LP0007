@@ -1,0 +1,55 @@
+FATAL   2020-05-30 16:26:35,090 [http-nio-8084-exec-23] khoaphd.controllers.SignUpController  - Violation of PRIMARY KEY constraint 'PK_Account'. Cannot insert duplicate key in object 'dbo.Account'. The duplicate key value is (khoaphdse140609@fpt.edu.vn).
+FATAL   2020-05-30 16:45:17,702 [http-nio-8084-exec-36] khoaphd.controllers.SignUpController  - Violation of PRIMARY KEY constraint 'PK_Account'. Cannot insert duplicate key in object 'dbo.Account'. The duplicate key value is (userstudent@gmail.com).
+FATAL   2020-05-31 00:58:44,280 [http-nio-8084-exec-31] khoaphd.controllers.SearchController  - Incorrect syntax near 'OFFSET'.
+FATAL   2020-05-31 00:59:02,753 [http-nio-8084-exec-32] khoaphd.controllers.SearchController  - Incorrect syntax near 'OFFSET'.
+FATAL   2020-06-01 15:52:13,564 [http-nio-8084-exec-46] khoaphd.controllers.SignUpController  - Violation of PRIMARY KEY constraint 'PK_Account'. Cannot insert duplicate key in object 'dbo.Account'. The duplicate key value is (khoaphdse140609@fpt.edu.vn).
+FATAL   2020-06-01 16:33:51,502 [http-nio-8084-exec-9] khoaphd.controllers.ProcessBeforeStudentController  - Invalid column name 'Code'.
+FATAL   2020-06-01 17:02:46,682 [http-nio-8084-exec-4] khoaphd.controllers.ProcessBeforeStudentController  - Invalid column name 'Code'.
+FATAL   2020-06-01 17:03:31,777 [http-nio-8084-exec-3] khoaphd.controllers.ProcessBeforeStudentController  - Invalid column name 'Code'.
+FATAL   2020-06-01 23:30:01,384 [http-nio-8084-exec-53] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:30:07,197 [http-nio-8084-exec-62] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:30:10,182 [http-nio-8084-exec-63] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:34:53,307 [http-nio-8084-exec-65] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:34:56,363 [http-nio-8084-exec-62] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:35:01,531 [http-nio-8084-exec-66] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:35:15,783 [http-nio-8084-exec-69] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:36:56,616 [http-nio-8084-exec-2] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:37:51,999 [http-nio-8084-exec-12] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-01 23:42:28,592 [http-nio-8084-exec-12] khoaphd.controllers.StartQuizController  - Incorrect syntax near '@P0'.
+FATAL   2020-06-02 11:33:27,645 [http-nio-8084-exec-10] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:34:23,070 [http-nio-8084-exec-2] khoaphd.controllers.BackQuestionController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:34:24,431 [http-nio-8084-exec-5] khoaphd.controllers.BackQuestionController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:34:29,011 [http-nio-8084-exec-7] khoaphd.controllers.NextQuestionController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:44:02,818 [http-nio-8084-exec-8] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:48:23,758 [http-nio-8084-exec-7] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:52:27,771 [http-nio-8084-exec-5] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:53:21,679 [http-nio-8084-exec-5] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:53:31,229 [http-nio-8084-exec-10] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:54:08,350 [http-nio-8084-exec-7] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:54:36,576 [http-nio-8084-exec-7] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 11:54:50,537 [http-nio-8084-exec-7] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:44:53,594 [http-nio-8084-exec-3] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:45:05,535 [http-nio-8084-exec-9] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:46:01,842 [http-nio-8084-exec-9] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:46:45,514 [http-nio-8084-exec-9] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:47:58,875 [http-nio-8084-exec-6] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:48:24,667 [http-nio-8084-exec-6] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:48:39,164 [http-nio-8084-exec-7] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:49:01,962 [http-nio-8084-exec-10] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:49:12,465 [http-nio-8084-exec-8] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:49:31,201 [http-nio-8084-exec-9] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:49:49,644 [http-nio-8084-exec-1] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 12:50:20,523 [http-nio-8084-exec-3] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 13:21:49,019 [http-nio-8084-exec-23] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 13:22:44,735 [http-nio-8084-exec-30] khoaphd.controllers.StartQuizController  - Index: 6, Size: 6
+FATAL   2020-06-02 15:11:45,538 [http-nio-8084-exec-25] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 15:14:40,108 [http-nio-8084-exec-34] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 15:19:56,907 [http-nio-8084-exec-55] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 15:20:32,012 [http-nio-8084-exec-49] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 15:23:13,377 [http-nio-8084-exec-49] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 18:26:12,437 [http-nio-8084-exec-84] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 18:29:39,381 [http-nio-8084-exec-86] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 18:33:13,020 [http-nio-8084-exec-87] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 18:55:50,979 [http-nio-8084-exec-111] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 19:05:01,149 [http-nio-8084-exec-119] khoaphd.controllers.SubmitQuizController  - 
+FATAL   2020-06-02 19:15:46,622 [http-nio-8084-exec-115] khoaphd.controllers.SubmitQuizController  - 

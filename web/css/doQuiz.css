@@ -1,0 +1,77 @@
+body {
+    background-color: #E2E2E2 !important;
+}
+
+.navbar {
+    background: #3598DC;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.navbar .brand-name {
+    font-size: 20px !important;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+.alert-no-quiz {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.quiz-info {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.quiz-info td {
+    text-align: left !important;
+}
+
+.quiz-info .col-sm-4 {
+    font-weight: bold;
+}
+
+.quiz-doing {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.quiz-doing .quiz-content {
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+
+.quiz-doing .quiz-content .label-question-no {
+    font-weight: bold;
+}
+
+.quiz-doing .quiz-content .label-content {
+    margin-left: 30px;
+}
+
+.quiz-doing .quiz-content .answer-row {
+    border: 1px;
+    margin-left: 30px;
+}
+
+.quiz-doing .flex-wrap {
+    width: 650px;
+    padding: 20px;
+    margin: 10px auto;
+}
+
+.quiz-doing .flex-wrap .btn {
+    width: 50px;
+    height: 50px;
+    margin: 5px 5px;
+}

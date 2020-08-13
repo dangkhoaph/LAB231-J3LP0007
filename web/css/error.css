@@ -1,0 +1,25 @@
+body {
+    background-color: #E2E2E2 !important;
+}
+
+.navbar {
+    background: #3598DC;
+    color: white;
+}
+
+.navbar .brand-name {
+    font-size: 20px !important;
+}
+
+.error-template {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.error-actions {
+    margin-top: 15px;
+}
+
+.error-actions i {
+    margin-right: 5px;
+}
